@@ -1,4 +1,4 @@
-# Data Jobs Dashboard w/ Power BI
+# Data Jobs Market Analysis & Salary Insights Dashboard | Using Power BI
 
 ![](images/Project1_Dashboard_Overview.gif)
 
